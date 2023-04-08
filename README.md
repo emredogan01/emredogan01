@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **emredogan01/emredogan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anythnig
 - 📫 How to reach me: myktysn@gmail.com
 - ⚡ Fun fact: HTML, CSS, BOOTSTRAP
--->
+
