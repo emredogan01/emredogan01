@@ -4,7 +4,7 @@
 
 ## 💼 Projeler ve Yetenekler
 
-- 🔭 Şu anda üzerinde çalıştığım projeler: React-Native
+- 🔭 Şu anda üzerinde çalıştığım projeler: React-Native clone projeleri
 - 🚀 React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
 - ⚙️ Diğer teknolojiler: MongoDB, Node.js, Express.js
 
