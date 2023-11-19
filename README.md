@@ -1,4 +1,4 @@
-# Merhaba, Ben Doğan Emre!
+# Merhaba, Ben Emre Doğan!
 
 🚀 React ve React Native geliştiriciyim.
 
