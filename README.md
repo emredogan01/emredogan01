@@ -6,12 +6,12 @@
 
 - 🔭 Şu anda üzerinde çalıştığım projeler: React-Native clone projeleri
 - 🚀 React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
-- ⚙️ Diğer teknolojiler: MongoDB, Node.js, Express.js
+- ⚙️  Kendimi geliştirmekte olduğum teknolojiler: MongoDB, Node.js, Express.js
 
 ## 📫 İletişim
 
 - LinkedIn: [Doğan Emre](https://www.linkedin.com/in/doganemree01/)
-- Twitter: [@doganemree](https://twitter.com/doganemree)
+- Twitter: [@doganemree](https://twitter.com/doganemrea)
 
 ## 🎯 Kişisel Hedefler
 
