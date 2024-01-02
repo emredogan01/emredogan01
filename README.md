@@ -1,20 +1,19 @@
-# Merhaba, Ben Emre Doğan!
+# Hello, I'm Emre Doğan!
 
-🚀 React ve React Native geliştiriciyim.
+🚀 I am a React and React Native developer.
 
-## 💼 Projeler ve Yetenekler
+## 💼 Projects and Skills
 
-- 🔭 Şu anda üzerinde çalıştığım projeler: React-Native projeleri
-- 🚀 React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
-- ⚙️  Kendimi geliştirmekte olduğum teknolojiler: MongoDB, Node.js, Express.js
+- 🔭 Projects I'm currently working on: React Native projects
+- 🚀 Skills: React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
+- ⚙️ Technologies I'm currently learning: MongoDB, Node.js, Express.js
 
-## 📫 İletişim
+## 📫 Contact
 
 - LinkedIn: [Doğan Emre](https://www.linkedin.com/in/doganemree01/)
 - Twitter: [@doganemree](https://twitter.com/doganemrea)
 
-## 🎯 Kişisel Hedefler
+## 🎯 Personal Goals
 
-- [ ] Yeni bir teknoloji öğrenmek
-- [ ] Açık kaynak projelere katkıda bulunmak
-
+- [ ] Learn a new technology
+- [ ] Contribute to open source projects
