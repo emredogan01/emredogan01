@@ -10,7 +10,6 @@
 ## 📫 Contact
 
 - LinkedIn: [Doğan Emre](https://www.linkedin.com/in/doganemree01/)
-- Twitter: [@doganemree](https://twitter.com/doganemrea)
 
 ## 🎯 Personal Goals
 
