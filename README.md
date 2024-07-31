@@ -5,8 +5,7 @@
 ## 💼 Projects and Skills
 
 - 🔭 Projects I'm currently working on: React Native projects
-- 🚀 Skills: React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS
-- ⚙️ Technologies I'm currently learning: MongoDB, Node.js, Express.js
+- 🚀 Skills: React, React Native, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, MongoDB, Node.js, Express.js
 
 ## 📫 Contact
 
